@@ -36,7 +36,7 @@ switch(method)
         
         
     
-       % ITQ method proposed in our CVPR11 paper
+       % ITQ method 
     case 'ITQ'
         % PCA
 
@@ -65,7 +65,7 @@ switch(method)
         
         
         
-        
+       % Concatenation Hashing method  
     case 'CH'
    
         addpath('/common_code/itq');
