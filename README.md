@@ -1,5 +1,5 @@
 
-# Online Hashing With Effcient Updating of Binary Codes
+# Concatenation hashing: A relative position preserving method for learning binary codes
 This repository contains the matlab code for the unsupervised hashing approach proposed in our paper:
 "Concatenation hashing: A relative position preserving method for learning binary codes". Zhenyu Weng, Yuesheng Zhu. Pattern Recognition, 2020.
 
